@@ -1,5 +1,7 @@
 {
-    "email":"sincere@april.biz",
-    "username":"sincere",
-    "password":"sincere"
+    "profile":{
+        "email":"sincere@april.biz",
+        "username":"sincere",
+        "password":"sincere"
+    }
 }
